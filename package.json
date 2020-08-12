@@ -1,0 +1,24 @@
+{
+  "name": "pwj-covid-tracker-complete",
+  "version": "1.0.0",
+  "description": "- Modify wireframe DONE\r - Get Country data\r - Show country data on the map\r - Show country data in a table",
+  "main": "charts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleverProgrammers/pwj-covid-tracker-complete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleverProgrammers/pwj-covid-tracker-complete/issues"
+  },
+  "homepage": "https://github.com/CleverProgrammers/pwj-covid-tracker-complete#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  }
+}
