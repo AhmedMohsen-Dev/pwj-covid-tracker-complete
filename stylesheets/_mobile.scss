@@ -1,0 +1,15 @@
+$md-breakpoint: 992px;
+$lg-breakpoint: 1370px;
+
+@media (max-width: $md-breakpoint) {
+	.side-panel-container {
+		border-radius: 30px;
+	}
+}
+
+@media (min-width: $lg-breakpoint) {
+	.side-panel-container {
+		border-top-right-radius: 12px;
+		border-bottom-right-radius: 12px;
+	}
+}
